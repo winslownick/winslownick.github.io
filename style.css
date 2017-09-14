@@ -7,9 +7,21 @@ h1 {
    background-color: skyblue;
    width: 300px;
  }
- img {
+
+.monster {
+  width: 200px;
+  height: auto;
+}
+
+ .profile-img {
    display: block;
    margin-left: auto;
    margin-right: auto;
    border-radius: 50%
+ }
+
+
+header {
+  background-color: salmon; 
+}
    
