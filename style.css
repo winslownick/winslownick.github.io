@@ -6,4 +6,9 @@ h1 {
  article {
    background-color: skyblue;
    width: 300px;
-   }
+ }
+ img {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   
